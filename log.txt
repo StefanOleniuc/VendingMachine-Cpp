@@ -1,0 +1,4 @@
+Optiune gresita!Optiunea trebuie sa fie de tipul int!
+Optiune gresita! Optiunea trebuie sa fie 0,1 sau 2!
+Optiune gresita!Introduceti un suc din meniu!
+Optiune gresita!Introduceti un suc din meniu!

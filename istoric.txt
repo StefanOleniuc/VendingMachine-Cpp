@@ -1,0 +1,7 @@
+aa MangoMagic OrangeMagic 
+a MangoMagic 
+aa OrangeMagic 
+aa AppleMagic 
+aa MangoMagic CherryMagic 
+aa MangoMagic 
+stefan@gmail.com MangoMagic CherryMagic 
