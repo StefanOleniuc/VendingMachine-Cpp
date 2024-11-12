@@ -1,0 +1,17 @@
+# Ignore debug and release folders
+Debug/
+Release/
+
+# Ignore Visual Studio temporary files
+*.suo
+*.user
+*.vcxproj.user
+*.filters
+
+# Ignore build artifacts
+*.obj
+*.exe
+*.dll
+
+# Ignore logs and temporary files
+*.log
