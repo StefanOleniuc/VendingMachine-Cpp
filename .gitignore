@@ -1,17 +1,7 @@
-# Ignore debug and release folders
+# Exclude folderul Debug
 Debug/
-Release/
 
-# Ignore Visual Studio temporary files
-*.suo
+# Exclude fișierele de configurare Visual Studio și fișierele generate automat
+*.vcxproj*
 *.user
-*.vcxproj.user
 *.filters
-
-# Ignore build artifacts
-*.obj
-*.exe
-*.dll
-
-# Ignore logs and temporary files
-*.log
